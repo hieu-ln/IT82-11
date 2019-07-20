@@ -390,6 +390,7 @@ void main()
 			break;
 		case 5:
 			cout<<"Goodbye.....!\n";
+			break;
 		default:
 			break;
 		}
