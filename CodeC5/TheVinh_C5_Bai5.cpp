@@ -1,4 +1,4 @@
-// Bai 4, chuong 5 : DO THI
+// Bai 5, chuong 5 : DO THI
 #include <iostream>
 #include <stdio.h>
 #include <fstream>
